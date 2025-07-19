@@ -1081,7 +1081,7 @@ body:not(.v-dark) .site-header .main-logo .dark-logo {
   }
 }
 .site-header .inner-header .main-logo {
-  width: 150px;
+  width: 100px;
   pointer-events: all;
 }
 .site-header .inner-header .main-logo img {
